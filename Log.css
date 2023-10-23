@@ -1,0 +1,50 @@
+body{
+    background-image: url("https://media.licdn.com/dms/image/C511BAQFS7wIjwJJIWw/company-background_10000/0/1533619622999?e=1687604400&v=beta&t=q4pojrfka_p5zzu1nvw-lIuoAJMHXSoraT5eVXJr-B4");
+
+}
+#h1{
+    text-transform: uppercase;
+    text-align: center;
+}
+.inp{
+   border-radius: 5px;
+   margin-left: 40px;
+   width: 300px;
+   height: 20px;
+   position: relative;
+}
+.div1{
+    border-style: ridge;
+    width: 400px;
+    height: 270px;
+    margin: auto;
+    margin-top: 60px;
+    background-color: white;
+}
+#sub1{
+    border-radius: 5px;
+   margin-left: 25px;
+   width: 300px;
+   height: 30px;
+   color: blue;
+   position: relative;
+   background-color: ghostwhite;
+}
+input[type="submit"]{
+    background-color: blue;
+    font-size: 15px;
+
+}
+#h4{
+    margin-left: 25px;
+}
+a:visited{
+    color: blue;
+    font-size: 100px;
+}
+a:hover{
+    color: yellow;
+    font-size: 20px;
+}
+
+

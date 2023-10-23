@@ -1,0 +1,167 @@
+.nav1{
+    background-color: #3d626c;
+ }
+/*#col1{
+  background-color: lightslategrey;
+  display: grid;
+  grid-template-rows: 80px;
+  position:relative;
+  color: white;
+}*/
+#ul{
+  color: white;
+}
+#img1{
+  background: linear-gradient(rgba(61,98,108,0.6), rgba(61,98,108,0.6)), url("img.png") ;
+  height: 70vh;
+  width: 100%;
+  background-repeat: no-repeat;
+}
+#h1{
+  color: white;
+  font-size:8vh;
+}
+#p1{
+  color: white;
+  font-size: 3vh;
+
+}
+.part1{
+  background-color: blue;
+  transition-timing-function: linear;
+}
+/*#button{
+  margin-left: 200px;
+}*/
+.card-img{
+    width: 80%;
+    height: 80%
+    
+}
+#icon1{
+  background-color: white;
+  height: 40vh;
+}
+#col4{
+ padding-left: 250px;
+ font-size: 35px
+}
+#p2{
+  padding-left: 600px;
+  margin-top:  -75px;
+  font-size: 20px;
+}
+#link1{
+  padding-left:600px ;
+}
+#col5{
+  background-color: antiquewhite;
+}
+.card:hover{
+  box-shadow: 10px 10px 10px gray;
+}
+.c1{
+  color: lightslategrey;
+}
+#c1{
+    color: lightslategray;
+    font-size: 10vh;
+}
+#img3{
+  background-image: url("img.png");
+  height: 60vh;
+  background-repeat: no-repeat;
+}
+#img4{
+  background-image: url("img.png");
+  height: 30vh;
+  background-repeat: no-repeat;
+}
+#img5{
+  background-image: url("Screenshot (30).png");
+  height: 30vh;
+  background-repeat: no-repeat;
+}
+
+#img-4{
+  background-color: #fff;
+}
+.icon-size{
+  font-size: 15vh;
+  border: none;
+}
+@media only screen and (max-width: 1000px) {
+    .icon-size{
+        font-size: 8vh;
+        border: none;
+    }
+}
+#part11{
+    background-color: antiquewhite ;
+}
+#part-11{
+    font-size: 7vh;
+}
+li{
+    font-size: 3vh;
+}
+.b1{
+    font-size: 4vh;
+}
+@media only screen and (max-width: 576) {
+    #part11{
+        font-size: 3vh;
+    }
+}
+#part10{
+    height: 40vh;
+}
+#img13{
+   background-image: url("img.png");
+   height: 90vh;
+  background-repeat: no-repeat;
+}
+#part14{
+  color:  lightslategrey;
+}
+.part-14{
+  color: lightslategray;
+  font-size: 4vh;
+}
+
+
+#m1{
+   background-color: red;
+}
+#m2{
+  width: 100%;
+}
+.part18{
+  background-color:#3d626c;
+}
+.part19{
+  background-color: #3d626c;
+  height: 3vh;
+}
+.part20{
+  background-color: #3d626c;
+}
+.part-20{
+  color: #fff;
+  font-size: 3vh;
+}
+.part2{
+  color: gray;
+}
+.hover1:hover{
+  text-decoration: underline;
+ 
+}
+@media only screen and (min-width:400) and (max-width: 700) {
+  #img5{
+    background-image: url("Screenshot (30).png");
+    height: 30vh;
+    background-repeat: no-repeat;
+    width: 100%;
+  }
+}

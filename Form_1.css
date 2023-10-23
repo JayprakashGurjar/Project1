@@ -1,0 +1,12 @@
+body{
+   background:  linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(108,9,121,0.3785889355742297) 35%, rgba(0,212,255,1) 100%);
+}
+.div1{
+    border-style: groove;
+    margin: auto;
+    height: 350px;
+    width: 500px;
+    margin-top: 10%;
+}
+.div2{
+}
